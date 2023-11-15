@@ -1,0 +1,244 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E9f5E9;
+    padding: 40px;
+}
+
+/*Full*/
+.Full {
+    display: flex;
+    flex-direction: row-reverse;
+    background: #ffffff;
+    width: 1200px;
+    margin: 0 auto;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/*Right*/
+.right {
+    padding: 88px;
+}
+
+/*o mne*/
+.my-prof {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #c11414;
+    margin: 0 0 18px 0;
+}
+
+.name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #280303;
+    margin: 0 0 28px 0;
+}
+
+/* about */
+.about {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 10px;
+    line-height: 24px;
+    color: #4e6445;
+    width: 525px;
+    margin: 0 0 28px 0;
+}
+
+.Aboutme {
+    margin-bottom: 64px;
+}
+
+.section {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #500623;
+    margin: 0 0 12px 0;
+}
+
+.project-box {
+    margin-bottom: 48px;
+}
+
+.texturl {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.ulrlink {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #005FFF;
+}
+
+.lifeway {
+    margin-bottom: 44px;
+}
+
+.nazwaarbaieten {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #950e0e;
+    margin: 0 0 12px 0;
+}
+
+.arbaiten {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #136bb4;
+}
+
+.bloks {
+    margin-bottom: 20px;
+}
+
+.data {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 12px;
+    margin-top: 8px;
+}
+
+.opis {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin: 0;
+}
+
+.opislist {
+    padding: 18px;
+    margin: 0px;
+}
+
+.blok4 {
+    margin: 0 0 12px 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #6D9BF5;
+    margin: 0 0 12px 0;
+}
+
+/*Left*/
+.left {
+    width: 370px;
+    background: #cce3bd;
+}
+
+.url {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #168733;
+}
+
+.url-list {
+    padding: 0 0 0 18px;
+    margin: 0;
+}
+
+.photo {
+    margin-top: 40px;
+}
+
+.contact,
+.skill,
+.drink {
+    margin: 48px 0px 0px 48px;
+}
+
+.sidebar-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #571515;
+    margin-bottom: 8px;
+}
+
+.contact-style {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #253113;
+    margin-right: 8px;
+}
+
+.contacs-sp {
+    margin: 0px;
+}
+
+.contact-ph {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #536c2e;
+}
+
+.contact-eml {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #4250b2;
+}
+
+.skill-list {
+    margin: 0;
+    padding: 0 0 0 18px;
+}
+
+.skill-list-sp {
+    color: #4250b2;
+}
+
+.skill-list-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #111b04;
+}
+
+.soft-list {
+    margin: 0;
+    padding: 0 0 0 18px;
+}
+
+.soft-list-sp {
+    color: #4250b2;
+}
+
+.soft-list-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #111b04;
+}
